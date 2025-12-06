@@ -1,0 +1,21 @@
+THÍ NGHIỆM PHÂN CỤM KHÁCH HÀNG (RFM)
+====================================
+Tham số mô hình:
+- Linkage Method: complete
+- Số cụm (k): 3
+------------------------------------
+KẾT QUẢ ĐÁNH GIÁ:
+- Silhouette Score: 0.5844
+
+SỐ LƯỢNG KHÁCH HÀNG MỖI CỤM:
+Cluster_Label
+0     237
+1    3987
+2      39
+
+ĐẶC ĐIỂM TRUNG BÌNH (CLUSTER PROFILING):
+               Recency  Frequency  Monetary
+Cluster_Label                              
+0                15.42      15.55   5077.85
+1                99.01       2.88   1014.58
+2                34.00       9.97  10523.97

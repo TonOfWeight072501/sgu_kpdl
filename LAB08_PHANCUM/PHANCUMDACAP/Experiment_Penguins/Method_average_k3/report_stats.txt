@@ -1,0 +1,18 @@
+THÍ NGHIỆM PHÂN CỤM PENGUINS
+============================
+Tham số: Linkage=average, k=3
+----------------------------
+Silhouette Score: 0.4567
+
+SỐ LƯỢNG MẪU MỖI CỤM:
+Cluster_Label
+0     65
+1    120
+2    148
+
+TRUNG BÌNH CÁC ĐẶC TRƯNG:
+               culmen_length_mm  culmen_depth_mm  flipper_length_mm  body_mass_g
+Cluster_Label                                                                   
+0                         49.20            18.56             196.63      3770.77
+1                         47.54            15.00             217.23      5090.62
+2                         38.89            18.27             189.81      3685.47
