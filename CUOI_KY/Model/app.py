@@ -15,7 +15,7 @@ st.set_page_config(
 @st.cache_resource
 def load_assets():
     try:
-        model = joblib.load('best_ensemble_model.pkl')
+        model = joblib.load('tuned_random_forest.pkl')
         scaler = joblib.load('scaler.pkl')
         model_cols = joblib.load('model_columns.pkl')
         return model, scaler, model_cols
